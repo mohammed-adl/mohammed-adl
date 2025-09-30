@@ -23,9 +23,12 @@ I work with **React, Next.js, and Node.js** to build interactive platforms with 
 
 - Design and optimize **databases** with Prisma & PostgreSQL  
 - Architect and secure **REST APIs** with Node.js & Express  
-- Implement **real-time features** (messaging, notifications, live data) with Socket.IO & Redis  
+- Implement **real-time features** (messaging, notifications, live data) with Socket.IO & Redis
+-  Design **complete custom authentication systems** from scratch  
+- Build **scalable, optimized architectures** to perform reliably under heavy load   
 - Build **responsive UIs** with React, Next.js, Tailwind  
-- Deploy apps with scalable, production-ready setups  
+- Deploy apps with scalable, production-ready setups
+  
 
 ---
 
