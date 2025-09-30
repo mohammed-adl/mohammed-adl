@@ -15,7 +15,7 @@ I'm Mohamed, a full-stack developer who builds real-time web applications. I wor
 
 ### 📌 What I'm working on
 
-I build complete web applications - designing databases, architecting APIs, implementing real-time features, and creating responsive user interfaces. My projects include authentication systems, caching layers, WebSocket integrations, and production deployments.
+I build complete web applications—designing databases, architecting APIs, implementing real-time features, and creating responsive user interfaces. Recent projects include a stock trading simulator with live price tracking and a social platform with real-time messaging and notifications—both featuring custom authentication systems and algorithmic data processing, deployed in production.
 
 ### 📫 How to reach me
 
