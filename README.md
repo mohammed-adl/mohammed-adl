@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Mohamed, a full-stack developer who builds real-time web applications. I work with React, Next.js, and Node.js to create interactive experiences with live data, authentication systems, and scalable backends.
+I'm **Mohamed**, a full-stack developer specializing in **real-time, scalable web applications**.  
+I work with **React, Next.js, and Node.js** to build interactive platforms with authentication, live data, and modern UI.  
+
+---
 
 ### 🔧 Technologies & Tools
 
@@ -13,17 +16,35 @@ I'm Mohamed, a full-stack developer who builds real-time web applications. I wor
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 📌 What I'm working on
+---
 
-I build complete web applications—designing databases, architecting APIs, implementing real-time features, and creating responsive user interfaces.
+### 🚀 What I Do
 
-Recent projects include a stock trading simulator with live price tracking and a social platform with real-time messaging and notifications—both featuring custom authentication systems and algorithmic data processing, deployed in production.
-
-### 📫 How to reach me
-
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01713258696736604a)
-- 📧 sickmido@gmail.com
+- Design and optimize **databases** with Prisma & PostgreSQL  
+- Architect and secure **REST APIs** with Node.js & Express  
+- Implement **real-time features** (messaging, notifications, live data) with Socket.IO & Redis  
+- Build **responsive UIs** with React, Next.js, Tailwind  
+- Deploy apps with scalable, production-ready setups  
 
 ---
 
-⚡ Open to freelance work and interesting projects
+### 📌 Featured Projects
+
+- **Flash – Trading Simulator**  
+  Real-time stock trading simulator with live market data, portfolio analytics, and Redis caching.  
+  👉 [Live Demo](https://flash-sim.vercel.app) | [Repo](https://github.com/flash-trading-simulator/flash)  
+
+- **x-hub – Social Platform**  
+  Twitter-like social media app with authentication, real-time messaging, notifications, and smart recommendations.  
+  👉 [Live Demo](https://xhubco.vercel.app) | [Repo](https://github.com/x-hub-social/x-hub)  
+
+---
+
+### 📫 Let’s Connect
+
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01713258696736604a)  
+- 📧 **sickmido@gmail.com**  
+
+---
+
+⚡ Open to **freelance work**, collaborations, and interesting projects.
