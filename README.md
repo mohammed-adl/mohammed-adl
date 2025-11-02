@@ -35,9 +35,9 @@ I work with **Next.js, Node.js and Prisma** to build interactive platforms with 
 -  Design **complete custom authentication systems** from scratch  
 - Build **scalable, optimized architectures** to perform reliably under heavy load   
 - Build **responsive UIs** with React, Next.js, Tailwind  
-- Deploy apps with scalable, production-ready setups
-  
-
+- Deploy apps with Docker & scalable, production-ready setups
+- Implement **caching and message queues** with Redis or rabbitMQ
+- Implement **testing and CI/CD pipelines** for automated quality and deployment  
 ---
 
 ### 📫 Let’s Connect
