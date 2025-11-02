@@ -24,6 +24,8 @@ I work with **Next.js, Node.js and Prisma** to build interactive platforms with 
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 ![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Browser Extension](https://img.shields.io/badge/-Browser%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 
 
