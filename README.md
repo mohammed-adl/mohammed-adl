@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Mohamed**, a full-stack developer specializing in **real-time, scalable web applications**.  
-I work with **React, Next.js, and Node.js** to build interactive platforms with authentication, live data, and modern UI.  
+I work with **Next.js, Prisma and Node.js** to build interactive platforms with authentication, live data, and modern UI.  
 
 ---
 
