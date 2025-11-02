@@ -40,18 +40,6 @@ I work with **React, Next.js, and Node.js** to build interactive platforms with 
 
 ---
 
-### 📌 Featured Projects
-
-- **Flash – Trading Simulator**  
-  Real-time stock trading simulator with live market data, portfolio analytics, secure auth and Redis caching.  
-  👉 [Live Demo](https://flash-sim.vercel.app)  
-
-- **x-hub – Social Platform**  
-  Twitter-like social media app with advanced auth, real-time messaging, notifications, sessions mangement and smart recommendations.  
-  👉 [Live Demo](https://xhubco.vercel.app)  
-
----
-
 ### 📫 Let’s Connect
 
  
