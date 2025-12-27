@@ -46,6 +46,3 @@ I work with **Next.js, Node.js and Prisma** to build interactive platforms with 
  
 - 📧 **sickmido@gmail.com**  
 
----
-
-⚡ Open to **freelance work**, collaborations, and interesting projects.
